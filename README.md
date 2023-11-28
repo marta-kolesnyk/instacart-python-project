@@ -5,7 +5,7 @@ This project focused on Instacart - an online grocery store that operates throug
 
 ## Data:
 “The Instacart Online Grocery Shopping Dataset 2017”, 
-Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle on <date>.
+Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggl.
 
 "Customers" dataset and "Prices" column in "Products" dataset were fabricated for learning purposes.
 
