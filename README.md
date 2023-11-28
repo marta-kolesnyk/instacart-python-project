@@ -1,9 +1,9 @@
 # Instacart Grocery Basket Analysis
 
 ## Overview:
-Instacart is an online grocery store that operates through an app. The company already has good sales,but they want to uncover more information about their sales patterns.
+This project focused on Instacart - an online grocery store that operates through an app. The company already had good sales, but they wanted to uncover more information about their sales patterns.
 
-## Goal:
+## Project Goal:
 Determine company's sales patterns and provide criteria for customers segmentation.
 
 ## Data:
@@ -14,4 +14,4 @@ Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle on <da
 
 ## Project Deliverables:
 - Excel report
-- Scripts
+- Jupyter Notebook Scripts
